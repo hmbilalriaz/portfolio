@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <header>
             <img src={profileImage} alt="Profile" style={{ borderRadius: '50%', width: '150px', height: '150px' }} />
-            <h1>Your Name</h1>
-            <p>Your Profession</p>
+            <h1>Hafiz Muhammad Bilal</h1>
+            <p>FullStack | RubyOnRails | AWS</p>
         </header>
     );
 };
