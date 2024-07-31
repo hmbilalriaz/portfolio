@@ -1,7 +1,9 @@
 /* src/styles/colors.css */
 :root {
-    --black: #000000;
-    --dark-blue: #14213d;
-    --light-grey: #e5e5e5;
-    --white: #ffffff;
+    --very-light-grey: #f8f9fa;
+    --light-grey: #e9ecef;
+    --grey: #ced4da;
+    --dark-grey: #6c757d;
+    --very-dark-grey: #212529;
+    --text-light: #ffffff;
 }
